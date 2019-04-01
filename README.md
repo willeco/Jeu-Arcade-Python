@@ -15,7 +15,7 @@ Déplacement latéral droit | d
 Déplacement latéral gauche | q
 Saut | touche espace
 Tir de fleches | k
-Quitter le jeu | 'echap' ou flêches directionnelles
+Quitter le jeu | 'echap' ou flèches directionnelles
 
 ## Principe de gestion des vies
 * Vie personnage : Si le personnage entre en collision avec un monstre le jeu
